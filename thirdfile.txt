@@ -1,1 +1,3 @@
 This is the third file added by second developer
+this is a change done to third file.
+
