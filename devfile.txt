@@ -1,2 +1,4 @@
 this is a file added on dev branch
+developer is adding this line
+
 dev 1 has made this change
